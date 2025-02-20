@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+    <!--Heading of the project title-->
+    <header> 
+        <h1> resume</h1>
+    </header>
+    <nav> 
+        <ul>
+            <li>home</li>
+            <li>About</li>
+            <li>Qualifacation details</li>
+            <li>Skills</li>
+            <li>contact details</li>
+        </ul>
+    </nav>
+    <!--Home Content-->
+<section>
+  <center>  <figure> 
+        <img src="https://i.sstatic.net/Ln0Ar.jpg" alt="" width="120">
+    </figure>
+    <figcaption>Picture 1</figcaption>
+    <h1>your Name</h1>
+    <h2>Full stack Developer</h2>
+</center>
+</section>
+<details>
+    <summary>Skills</summary>
+    <li>HTML</li>
+    <li>css</li>
+    <li>java</li>
+    <li>python</li>
+</details>
+<section>
+    <h1>Project Details</h1>
+    <dl>
+        <dt>Online food order</dt>
+        <dd>-Forntend-HTML,CSS,Bootstrap,javaScript,React</dd>
+        <dd>-backend-NodeJS,MongoDB</dd>
+    </dl>
+</section>
+<footer>
+    <h1>cantact details</h1>
+    <p>LOcation:Coimbatore</p>
+    <p>Email:SRI@gmail.com</p>
+</footer>
+
+
+    
+</body>
+</html>
